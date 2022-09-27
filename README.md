@@ -6,11 +6,17 @@ To Run:
 2) Run python3 clean_data.py
 3) Run python3 app.py
 
-App accessible: http://localhost:8050
+App accessible: http://localhost:8050 or http://127.0.0.1:8050/
 
 Demo:
 
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-6c018adecc.gif)
+
+Data Scraped:
+
+
+![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-0385edc8f2.gif)
+
 
 
 
