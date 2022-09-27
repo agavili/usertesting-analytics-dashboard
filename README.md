@@ -9,6 +9,7 @@ To Run:
 App accessible: http://localhost:8050
 
 Demo:
+
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-6c018adecc.gif)
 
 
