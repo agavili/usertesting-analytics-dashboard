@@ -13,9 +13,9 @@ Scrapes **Completed Test** data to provide insights on revenue generated, test f
 
 ## App Demo:
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-6c018adecc.gif)
+![Alt Text](demo.gif)
 
 ## Data Scraped:
 
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-0385edc8f2.gif)
+![Alt Text](scraped_data_demo.gif)
